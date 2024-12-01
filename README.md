@@ -1,2 +1,5 @@
-# etch-a-sketch
-etch a sketch for odin
+ETCH A SKETCH
+
+Created using HTML, CSS, JS
+
+Draw with fun randomized colors!
